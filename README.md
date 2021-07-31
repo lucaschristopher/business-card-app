@@ -2,7 +2,7 @@
 
 Business card list application where you can keep data of name, company, contact phone, email and configure card colors using Room database. This is a simple application for fixing the teachings of Inter Develop Bootcamp offered by Digital Innovation One.
 
-### <br />Technologies used
+***Technologies used***
 1. Room
 2. MVVM
 3. ViewBinding
